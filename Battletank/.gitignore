@@ -76,4 +76,4 @@ DerivedDataCache/*
 
 StarterContent/*
 
-uasset/*
+*.uasset
